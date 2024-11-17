@@ -12,7 +12,7 @@
 We are using data to determine the "Best Neighborhood in Pittsburgh." Each member has chosen a different dataset (city facilities, courts, parks) to analyze. We will combine our findings to create an overall metric.
 
 ## Datasets
-- **City Facilities Dataset**: To calculate the number of people per playground in each neighborhood.
+- **City Facilities Dataset**: To calculate the number of people per facility in each neighborhood.
 - **Courts Dataset**: Brief description of how this data will be used.
 - **Parks Dataset**: Brief description of how this data will be used.
 - **Neighborhood Population Data**: Used to calculate ratios and compare neighborhoods.

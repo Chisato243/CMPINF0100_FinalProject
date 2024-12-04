@@ -1,11 +1,11 @@
 # Final Project: The Best Neighborhood in Pittsburgh
 
 ## Team Name
-**Team Name Here**
+**Team 18**
 
 ## Team Members
 - **Member 1**: bac128@pitt.edu
-- **Member 2**: Email
+- **Member 2**: viz18@pitt.edu
 - **Member 3**: Email
 
 ## Overview

@@ -26,7 +26,7 @@ We are using data to determine the "Best Neighborhood in Pittsburgh." Each membe
 
 ## How to Use
 This repository includes:
-- A combined notebook with our main analysis
+- A combined notebook with our main analysis titled main.ipynb
 - Each member’s individual notebook
 - A README with project details
 
